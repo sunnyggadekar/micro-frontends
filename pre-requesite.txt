@@ -1,0 +1,15 @@
+https://pnpm.io/6.x/motivation#saving-disk-space-and-boosting-installation-speed
+
+https://nodejs.dev/learn/the-npx-nodejs-package-runner
+
+https://www.geeksforgeeks.org/difference-between-npm-and-yarn/
+
+https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+
+remoteEntry
+
+node 
+npm
+yarn
+
+yarn && yarn start
